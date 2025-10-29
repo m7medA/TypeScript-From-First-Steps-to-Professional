@@ -1,10 +1,5 @@
 # 🧠 TypeScript: From First Steps to Professional
 
-### 🎓 Certificate of Completion
-**Issued by:** Frontend Masters  
-**Completed on:** **October 29, 2025**  
-**Duration:** *7 hours, 58 minutes*
-
 ---
 
 ## 📘 About the Course
@@ -52,7 +47,8 @@ And honestly… this is just the beginning.
 ---
 
 ## 🏆 Certificate Preview
-> **TypeScript: From First Steps to Professional**  
+> **TypeScript: From First Steps to Professional**
+> **Issued by:** Frontend Masters  
 > by Anjana Vakil — Duration: 7h 58m  
 > **Completed on October 29, 2025**
 
